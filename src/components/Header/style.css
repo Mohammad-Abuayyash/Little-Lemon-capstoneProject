@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+    border: 1px black solid;
+}
+
+nav > .pageLinks{
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+}
+
+.pageLinks > li > a{ 
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}

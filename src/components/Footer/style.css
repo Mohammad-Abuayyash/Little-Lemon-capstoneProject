@@ -1,0 +1,44 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    border: 1px black solid;
+    gap: 50px;
+}
+
+footer>img{
+    width: 200px;
+    height: 200px;
+}
+
+.footer-info{
+    justify-content: flex-start;
+    display: flex;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    padding: 10px;
+}
+
+
+.column>ul{
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    gap: 7px;
+
+    li {
+        list-style: none;
+        font-weight: 100;
+    };
+}
+
+.links>li>a{
+    text-decoration: none;
+    color:black;
+    font-weight: 400;
+}
