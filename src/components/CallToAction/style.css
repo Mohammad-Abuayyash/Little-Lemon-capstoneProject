@@ -1,0 +1,55 @@
+.callToAction{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 18rem;
+    gap: 50px;
+    background-color: #495e57;
+}
+
+
+
+.callToAction > .details{
+    width: 40%;
+    gap: 10px;
+}
+
+.callToAction > .details> h1{
+    font-size: 40px;
+    font-weight: lighter;
+    margin: 0;
+    padding: 0;
+    color: #f4ce14;
+    font-family: "Markazi Text";
+}
+.callToAction > .details>h3{
+    padding: 0;
+    font-size: 27px;
+    font-weight: lighter;
+    margin: 0;
+    margin-top: -10px;
+    color: white;
+    font-family: "Markazi Text";
+}
+
+.callToAction > .details>p{
+    color: white;
+    font-family: karla;
+}
+
+.callToAction > .details> button{
+    background-color: #f4ce14;
+    color: black;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 14px;
+    padding: 10px 20px;
+    box-shadow: 0 1px 1px 0 grey;
+
+}
+
+.callToAction > img{
+    width: 230px;
+    height: 260px;
+    border-radius: 20px;
+}

@@ -1,18 +1,23 @@
 header{
     display: flex;
-    justify-content: center;
-    padding: 20px 0px;
-    border: 1px black solid;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 18rem;
 }
 
 nav > .pageLinks{
     display: flex;
-    gap: 15px;
+    gap: 10px;
     list-style-type: none;
+}
+
+.pageLinks>li{
+    font-size: 15px;
 }
 
 .pageLinks > li > a{ 
     color: black;
     text-decoration: none;
     font-weight: 500;
+
 }

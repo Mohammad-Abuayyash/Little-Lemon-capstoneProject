@@ -1,0 +1,33 @@
+.specials{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 18rem;
+    border: 1px black solid;
+    position: relative;
+}
+
+.specials > .heading{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.specials > .heading >button{
+    background-color: #f4ce14;
+    color: black;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 14px;
+    padding: 10px 20px;
+    box-shadow: 0 1px 1px 0 grey;
+}
+
+.specials> .foodCards{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 27px;
+}

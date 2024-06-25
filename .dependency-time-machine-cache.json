@@ -1,0 +1,4382 @@
+[
+  {
+    "name": "react",
+    "version": "0.0.1",
+    "published": "2011-10-26T17:46:22.746Z"
+  },
+  {
+    "name": "react",
+    "version": "0.0.2",
+    "published": "2011-10-28T22:40:36.115Z"
+  },
+  {
+    "name": "react",
+    "version": "0.0.3",
+    "published": "2011-10-29T13:40:41.073Z"
+  },
+  {
+    "name": "react",
+    "version": "0.1.2",
+    "published": "2011-12-21T20:56:27.003Z"
+  },
+  {
+    "name": "react",
+    "version": "0.2.0",
+    "published": "2012-01-10T18:58:59.882Z"
+  },
+  {
+    "name": "react",
+    "version": "0.2.1",
+    "published": "2012-01-10T19:36:17.074Z"
+  },
+  {
+    "name": "react",
+    "version": "0.2.2",
+    "published": "2012-01-10T20:44:37.670Z"
+  },
+  {
+    "name": "react",
+    "version": "0.2.3",
+    "published": "2012-01-10T23:15:07.894Z"
+  },
+  {
+    "name": "react",
+    "version": "0.2.4",
+    "published": "2012-01-11T15:44:12.287Z"
+  },
+  {
+    "name": "react",
+    "version": "0.2.5",
+    "published": "2012-01-11T19:55:24.505Z"
+  },
+  {
+    "name": "react",
+    "version": "0.2.6",
+    "published": "2012-01-11T20:58:23.590Z"
+  },
+  {
+    "name": "react",
+    "version": "0.3.0",
+    "published": "2012-01-14T06:06:46.726Z"
+  },
+  {
+    "name": "react",
+    "version": "0.3.4",
+    "published": "2012-01-17T14:59:12.449Z"
+  },
+  {
+    "name": "react",
+    "version": "0.3.5",
+    "published": "2012-01-17T20:13:08.100Z"
+  },
+  {
+    "name": "react",
+    "version": "0.5.0",
+    "published": "2012-01-18T06:49:43.631Z"
+  },
+  {
+    "name": "react",
+    "version": "0.5.1",
+    "published": "2012-01-18T18:07:11.608Z"
+  },
+  {
+    "name": "react",
+    "version": "0.5.2",
+    "published": "2012-03-13T14:01:11.641Z"
+  },
+  {
+    "name": "react",
+    "version": "0.6.0",
+    "published": "2012-03-28T22:14:37.758Z"
+  },
+  {
+    "name": "react",
+    "version": "0.6.1",
+    "published": "2012-04-25T16:57:02.959Z"
+  },
+  {
+    "name": "react",
+    "version": "0.6.2",
+    "published": "2012-09-12T21:14:33.270Z"
+  },
+  {
+    "name": "react",
+    "version": "0.6.3",
+    "published": "2012-10-18T04:24:03.381Z"
+  },
+  {
+    "name": "react",
+    "version": "0.7.0",
+    "published": "2013-05-23T18:23:29.579Z"
+  },
+  {
+    "name": "react",
+    "version": "0.7.1",
+    "published": "2013-05-23T19:48:26.316Z"
+  },
+  {
+    "name": "react",
+    "version": "0.8.0",
+    "published": "2013-12-19T18:46:02.355Z"
+  },
+  {
+    "name": "react",
+    "version": "0.9.0",
+    "published": "2014-02-20T18:47:54.841Z"
+  },
+  {
+    "name": "react",
+    "version": "0.10.0",
+    "published": "2014-03-21T21:48:06.915Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.1.0",
+    "published": "2014-05-06T18:59:36.160Z"
+  },
+  {
+    "name": "react",
+    "version": "0.11.0",
+    "published": "2014-07-17T20:51:00.913Z"
+  },
+  {
+    "name": "react",
+    "version": "0.11.1",
+    "published": "2014-07-25T18:36:36.918Z"
+  },
+  {
+    "name": "react",
+    "version": "0.11.2",
+    "published": "2014-09-16T18:33:57.956Z"
+  },
+  {
+    "name": "react",
+    "version": "0.12.0",
+    "published": "2014-10-28T18:40:33.643Z"
+  },
+  {
+    "name": "react",
+    "version": "0.12.1",
+    "published": "2014-11-18T06:56:11.863Z"
+  },
+  {
+    "name": "react",
+    "version": "0.12.2",
+    "published": "2014-12-18T20:51:41.024Z"
+  },
+  {
+    "name": "react",
+    "version": "0.13.0",
+    "published": "2015-03-10T21:51:43.816Z"
+  },
+  {
+    "name": "react",
+    "version": "0.13.1",
+    "published": "2015-03-17T00:01:25.829Z"
+  },
+  {
+    "name": "react",
+    "version": "0.13.2",
+    "published": "2015-04-18T22:38:01.925Z"
+  },
+  {
+    "name": "react",
+    "version": "0.13.3",
+    "published": "2015-05-08T23:40:52.344Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.0",
+    "published": "2015-10-07T17:27:39.042Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.0",
+    "published": "2015-10-07T17:29:35.289Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.1",
+    "published": "2015-10-28T21:36:05.173Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.1",
+    "published": "2015-10-28T21:36:14.876Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.2",
+    "published": "2015-11-02T19:55:14.560Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.2",
+    "published": "2015-11-02T19:55:21.088Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.3",
+    "published": "2015-11-19T02:26:48.974Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.3",
+    "published": "2015-11-19T02:26:57.036Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.4",
+    "published": "2015-12-29T22:00:13.038Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.4",
+    "published": "2015-12-29T22:00:21.565Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.5",
+    "published": "2015-12-29T22:39:56.148Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.5",
+    "published": "2015-12-29T22:40:03.262Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.6",
+    "published": "2016-01-06T23:52:45.571Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.6",
+    "published": "2016-01-06T23:52:52.338Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.7",
+    "published": "2016-01-28T19:59:21.186Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.7",
+    "published": "2016-01-28T19:59:29.509Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.8",
+    "published": "2016-03-29T16:19:44.344Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.8",
+    "published": "2016-03-29T16:19:51.077Z"
+  },
+  {
+    "name": "react",
+    "version": "15.0.0",
+    "published": "2016-04-07T21:25:42.928Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.0.0",
+    "published": "2016-04-07T21:25:44.824Z"
+  },
+  {
+    "name": "react",
+    "version": "15.0.1",
+    "published": "2016-04-08T18:24:01.947Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.0.1",
+    "published": "2016-04-08T18:24:03.871Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.0.2",
+    "published": "2016-04-30T00:38:21.736Z"
+  },
+  {
+    "name": "react",
+    "version": "15.0.2",
+    "published": "2016-04-30T00:38:26.753Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.1.0",
+    "published": "2016-05-20T23:06:19.582Z"
+  },
+  {
+    "name": "react",
+    "version": "15.1.0",
+    "published": "2016-05-20T23:06:26.234Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.2.0",
+    "published": "2016-07-01T18:52:18.934Z"
+  },
+  {
+    "name": "react",
+    "version": "15.2.0",
+    "published": "2016-07-01T18:52:24.535Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.2.1",
+    "published": "2016-07-08T22:31:06.338Z"
+  },
+  {
+    "name": "react",
+    "version": "15.2.1",
+    "published": "2016-07-08T22:31:10.383Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.0.0",
+    "published": "2016-07-18T21:49:37.594Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.1.0",
+    "published": "2016-07-22T15:40:24.439Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.2.0",
+    "published": "2016-07-28T19:51:43.562Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.3.0",
+    "published": "2016-07-29T18:38:13.089Z"
+  },
+  {
+    "name": "react",
+    "version": "15.3.0",
+    "published": "2016-07-29T18:38:21.959Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.2.1",
+    "published": "2016-08-01T14:57:39.677Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.3.1",
+    "published": "2016-08-19T18:50:14.130Z"
+  },
+  {
+    "name": "react",
+    "version": "15.3.1",
+    "published": "2016-08-19T18:50:25.665Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.2.2",
+    "published": "2016-08-22T18:41:30.498Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.2.3",
+    "published": "2016-08-25T13:41:33.001Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.3.0",
+    "published": "2016-09-01T23:49:40.831Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.3.1",
+    "published": "2016-09-02T12:57:21.872Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.4.0",
+    "published": "2016-09-02T21:04:55.548Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.4.1",
+    "published": "2016-09-03T18:59:26.945Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.4.2",
+    "published": "2016-09-18T11:47:38.006Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.4.3",
+    "published": "2016-09-18T21:31:12.458Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.3.2",
+    "published": "2016-09-19T17:46:57.685Z"
+  },
+  {
+    "name": "react",
+    "version": "15.3.2",
+    "published": "2016-09-19T17:47:04.705Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.5.0",
+    "published": "2016-09-23T21:33:10.524Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.5.1",
+    "published": "2016-09-23T23:52:30.072Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.6.0",
+    "published": "2016-09-25T12:04:18.383Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.6.1",
+    "published": "2016-09-27T14:57:17.276Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.7.0",
+    "published": "2016-10-22T20:50:11.726Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.4.0",
+    "published": "2016-11-16T14:32:55.418Z"
+  },
+  {
+    "name": "react",
+    "version": "15.4.0",
+    "published": "2016-11-16T14:33:05.693Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.4.1",
+    "published": "2016-11-23T01:59:08.303Z"
+  },
+  {
+    "name": "react",
+    "version": "15.4.1",
+    "published": "2016-11-23T01:59:14.936Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.8.0",
+    "published": "2016-12-03T16:03:45.234Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.8.1",
+    "published": "2016-12-04T09:04:17.463Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.8.2",
+    "published": "2016-12-07T21:31:14.579Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.8.3",
+    "published": "2016-12-08T15:45:32.673Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.8.4",
+    "published": "2016-12-11T11:50:30.994Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.4.2",
+    "published": "2017-01-06T20:16:11.024Z"
+  },
+  {
+    "name": "react",
+    "version": "15.4.2",
+    "published": "2017-01-06T20:16:25.738Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.8.5",
+    "published": "2017-01-09T15:51:46.983Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.9.0",
+    "published": "2017-02-11T03:33:48.727Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.9.1",
+    "published": "2017-02-26T02:13:51.790Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.9.2",
+    "published": "2017-02-26T13:50:54.502Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.9.3",
+    "published": "2017-02-28T17:45:28.716Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.9.4",
+    "published": "2017-03-06T19:12:10.720Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "0.9.5",
+    "published": "2017-03-09T21:18:49.108Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.5.0",
+    "published": "2017-04-07T21:39:55.712Z"
+  },
+  {
+    "name": "react",
+    "version": "15.5.0",
+    "published": "2017-04-07T21:40:05.461Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.5.1",
+    "published": "2017-04-07T22:40:57.597Z"
+  },
+  {
+    "name": "react",
+    "version": "15.5.1",
+    "published": "2017-04-07T22:41:03.767Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.5.2",
+    "published": "2017-04-08T01:39:02.809Z"
+  },
+  {
+    "name": "react",
+    "version": "15.5.2",
+    "published": "2017-04-08T01:39:09.846Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.5.3",
+    "published": "2017-04-08T04:10:06.023Z"
+  },
+  {
+    "name": "react",
+    "version": "15.5.3",
+    "published": "2017-04-08T04:10:15.548Z"
+  },
+  {
+    "name": "react",
+    "version": "15.5.4",
+    "published": "2017-04-11T19:30:01.834Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.5.4",
+    "published": "2017-04-11T19:30:09.326Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.9",
+    "published": "2017-04-12T15:45:16.662Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.9",
+    "published": "2017-04-12T15:45:23.918Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.0",
+    "published": "2017-05-19T04:36:24.974Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.1",
+    "published": "2017-05-19T19:22:24.603Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.2",
+    "published": "2017-05-20T18:20:59.227Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.3",
+    "published": "2017-05-21T19:56:36.349Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.4",
+    "published": "2017-05-22T11:43:55.129Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.5",
+    "published": "2017-05-22T16:08:37.527Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.6",
+    "published": "2017-05-24T12:22:36.072Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.7",
+    "published": "2017-05-27T11:43:40.482Z"
+  },
+  {
+    "name": "react",
+    "version": "15.6.0",
+    "published": "2017-06-13T17:29:20.573Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.6.0",
+    "published": "2017-06-13T17:29:43.818Z"
+  },
+  {
+    "name": "react",
+    "version": "15.6.1",
+    "published": "2017-06-15T00:05:12.756Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.6.1",
+    "published": "2017-06-15T00:05:24.745Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.8",
+    "published": "2017-06-28T16:30:42.702Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.9",
+    "published": "2017-06-29T12:11:46.948Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.10",
+    "published": "2017-06-29T18:04:03.084Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.11",
+    "published": "2017-08-09T03:40:27.594Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.12",
+    "published": "2017-08-28T02:27:12.346Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.13",
+    "published": "2017-09-02T20:58:40.803Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.1",
+    "published": "2017-09-06T15:45:51.635Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.2",
+    "published": "2017-09-06T19:12:21.967Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.3",
+    "published": "2017-09-06T19:26:45.399Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.4",
+    "published": "2017-09-06T20:09:21.191Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.5",
+    "published": "2017-09-06T22:05:40.794Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.6",
+    "published": "2017-09-11T18:12:49.431Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.7",
+    "published": "2017-09-12T15:50:18.256Z"
+  },
+  {
+    "name": "react",
+    "version": "15.6.2",
+    "published": "2017-09-26T00:10:25.817Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.6.2",
+    "published": "2017-09-26T00:10:29.803Z"
+  },
+  {
+    "name": "react",
+    "version": "16.0.0",
+    "published": "2017-09-26T16:00:29.805Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.0.0",
+    "published": "2017-09-26T16:00:34.718Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.14",
+    "published": "2017-09-27T00:20:11.914Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.8",
+    "published": "2017-10-13T15:06:14.868Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.9",
+    "published": "2017-10-16T16:23:18.367Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.10",
+    "published": "2017-10-16T18:01:54.430Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.11",
+    "published": "2017-10-30T20:52:55.655Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.15",
+    "published": "2017-10-30T21:49:17.313Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.16",
+    "published": "2017-10-31T10:41:30.168Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.12",
+    "published": "2017-11-01T16:38:24.126Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.0.17",
+    "published": "2017-11-03T18:27:46.312Z"
+  },
+  {
+    "name": "react",
+    "version": "16.1.0",
+    "published": "2017-11-09T15:04:37.798Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.1.0",
+    "published": "2017-11-09T15:04:38.346Z"
+  },
+  {
+    "name": "react",
+    "version": "16.1.1",
+    "published": "2017-11-13T16:13:13.540Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.1.1",
+    "published": "2017-11-13T16:13:14.142Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.13",
+    "published": "2017-11-28T20:13:11.499Z"
+  },
+  {
+    "name": "react",
+    "version": "16.2.0",
+    "published": "2017-11-28T21:32:28.829Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.2.0",
+    "published": "2017-11-28T21:32:29.110Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.14",
+    "published": "2017-11-30T22:44:09.508Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.15",
+    "published": "2017-12-08T19:23:07.481Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.16",
+    "published": "2017-12-09T16:09:41.120Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.17",
+    "published": "2017-12-19T21:18:43.257Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.1.0",
+    "published": "2018-01-15T00:53:56.183Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.1.1",
+    "published": "2018-02-09T13:21:06.031Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.18",
+    "published": "2018-03-23T22:30:59.137Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.3.0",
+    "published": "2018-03-29T20:16:21.022Z"
+  },
+  {
+    "name": "react",
+    "version": "16.3.0",
+    "published": "2018-03-29T20:16:22.948Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.1.2",
+    "published": "2018-04-02T23:48:39.865Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.1.3",
+    "published": "2018-04-03T17:30:57.579Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.1.4",
+    "published": "2018-04-04T00:27:55.140Z"
+  },
+  {
+    "name": "react",
+    "version": "16.3.1",
+    "published": "2018-04-04T00:39:05.128Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.3.1",
+    "published": "2018-04-04T00:39:16.342Z"
+  },
+  {
+    "name": "react",
+    "version": "16.3.2",
+    "published": "2018-04-16T15:32:25.525Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.3.2",
+    "published": "2018-04-16T15:32:42.988Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.19",
+    "published": "2018-05-01T12:42:13.073Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.0.20",
+    "published": "2018-05-15T14:00:16.112Z"
+  },
+  {
+    "name": "react",
+    "version": "16.4.0",
+    "published": "2018-05-24T00:39:50.356Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.4.0",
+    "published": "2018-05-24T00:39:50.456Z"
+  },
+  {
+    "name": "react",
+    "version": "16.4.1",
+    "published": "2018-06-13T16:47:05.961Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.4.1",
+    "published": "2018-06-13T16:47:20.487Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.0",
+    "published": "2018-06-20T20:01:38.016Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.1.0",
+    "published": "2018-06-20T20:02:03.278Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.1.0",
+    "published": "2018-06-20T20:02:12.002Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.1.0",
+    "published": "2018-06-20T20:02:20.255Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.0",
+    "published": "2018-06-20T21:32:35.722Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.1",
+    "published": "2018-07-17T17:41:06.759Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.1.1",
+    "published": "2018-07-17T17:41:28.009Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.1.1",
+    "published": "2018-07-17T17:41:38.198Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.1.1",
+    "published": "2018-07-17T17:41:46.741Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.2",
+    "published": "2018-07-23T16:47:04.811Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.2.0",
+    "published": "2018-07-23T16:47:28.876Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.2.0",
+    "published": "2018-07-23T16:47:35.051Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.2.0",
+    "published": "2018-07-23T16:47:42.283Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.0.1",
+    "published": "2018-08-01T18:47:12.808Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.1.2",
+    "published": "2018-08-01T18:55:18.353Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.2.1",
+    "published": "2018-08-01T18:57:20.123Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.3.3",
+    "published": "2018-08-01T18:58:58.451Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.4.2",
+    "published": "2018-08-01T19:01:01.146Z"
+  },
+  {
+    "name": "react",
+    "version": "16.4.2",
+    "published": "2018-08-01T19:01:56.155Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.1",
+    "published": "2018-08-07T13:45:59.462Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.2",
+    "published": "2018-08-12T19:17:57.535Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "1.1.5",
+    "published": "2018-08-22T18:58:59.558Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.3",
+    "published": "2018-08-27T17:19:57.742Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.3.0",
+    "published": "2018-08-27T17:20:25.501Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.3.0",
+    "published": "2018-08-27T17:20:36.499Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.3.0",
+    "published": "2018-08-27T17:20:48.151Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.4",
+    "published": "2018-08-28T17:38:10.709Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.3.1",
+    "published": "2018-08-28T17:38:37.346Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.3.1",
+    "published": "2018-08-28T17:38:47.126Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.3.1",
+    "published": "2018-08-28T17:38:56.124Z"
+  },
+  {
+    "name": "react",
+    "version": "16.5.0",
+    "published": "2018-09-06T16:44:42.930Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.5.0",
+    "published": "2018-09-06T16:44:51.243Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.3",
+    "published": "2018-09-06T18:51:21.391Z"
+  },
+  {
+    "name": "react",
+    "version": "16.5.1",
+    "published": "2018-09-13T18:34:18.952Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.5.1",
+    "published": "2018-09-13T18:34:20.794Z"
+  },
+  {
+    "name": "react",
+    "version": "16.5.2",
+    "published": "2018-09-18T19:31:03.834Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.5.2",
+    "published": "2018-09-18T19:31:10.943Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.0.0",
+    "published": "2018-09-26T18:04:38.036Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.0.1",
+    "published": "2018-09-28T12:54:53.055Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.0.2",
+    "published": "2018-10-01T16:22:29.565Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.0.3",
+    "published": "2018-10-02T00:55:34.267Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.0.4",
+    "published": "2018-10-03T20:02:17.670Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.5",
+    "published": "2018-10-08T19:26:35.047Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.4.0",
+    "published": "2018-10-08T19:27:04.162Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.4.0",
+    "published": "2018-10-08T19:27:12.244Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.4.0",
+    "published": "2018-10-08T19:27:21.058Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.6",
+    "published": "2018-10-11T19:49:41.906Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.4.1",
+    "published": "2018-10-11T19:50:10.479Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.4.1",
+    "published": "2018-10-11T19:50:20.183Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.4.1",
+    "published": "2018-10-11T19:50:31.477Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.0.5",
+    "published": "2018-10-14T19:05:54.637Z"
+  },
+  {
+    "name": "react",
+    "version": "16.6.0",
+    "published": "2018-10-23T23:36:06.553Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.6.0",
+    "published": "2018-10-23T23:36:09.900Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.7",
+    "published": "2018-10-25T21:51:46.121Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.4.2",
+    "published": "2018-10-25T21:52:42.777Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.4.2",
+    "published": "2018-10-25T21:53:00.343Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.4.2",
+    "published": "2018-10-25T21:53:17.740Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.0",
+    "published": "2018-10-30T03:41:10.360Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.1",
+    "published": "2018-11-01T03:30:08.747Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.8",
+    "published": "2018-11-02T15:06:52.333Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.5.0",
+    "published": "2018-11-02T15:07:12.348Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.5.0",
+    "published": "2018-11-02T15:07:21.582Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.5.0",
+    "published": "2018-11-02T15:07:31.376Z"
+  },
+  {
+    "name": "react",
+    "version": "16.6.1",
+    "published": "2018-11-07T02:33:22.373Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.6.1",
+    "published": "2018-11-07T02:33:26.715Z"
+  },
+  {
+    "name": "react",
+    "version": "16.6.2",
+    "published": "2018-11-13T02:38:24.686Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.6.2",
+    "published": "2018-11-13T02:39:54.918Z"
+  },
+  {
+    "name": "react",
+    "version": "16.6.3",
+    "published": "2018-11-13T03:52:56.452Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.6.3",
+    "published": "2018-11-13T03:53:05.230Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.9",
+    "published": "2018-12-07T21:39:22.470Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.6.0",
+    "published": "2018-12-07T21:39:41.224Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.6.0",
+    "published": "2018-12-07T21:39:49.329Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.6.0",
+    "published": "2018-12-07T21:39:56.604Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.10",
+    "published": "2018-12-12T17:08:32.073Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.6.1",
+    "published": "2018-12-12T17:08:57.037Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.6.1",
+    "published": "2018-12-12T17:09:04.426Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.6.1",
+    "published": "2018-12-12T17:09:13.257Z"
+  },
+  {
+    "name": "react",
+    "version": "16.7.0",
+    "published": "2018-12-20T01:19:48.948Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.7.0",
+    "published": "2018-12-20T01:20:03.120Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.11",
+    "published": "2018-12-20T16:57:12.005Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.6.2",
+    "published": "2018-12-20T16:57:28.678Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.6.2",
+    "published": "2018-12-20T16:57:34.899Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.6.2",
+    "published": "2018-12-20T16:57:41.873Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.12",
+    "published": "2018-12-20T17:09:11.354Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.6.3",
+    "published": "2018-12-20T17:09:28.392Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.6.3",
+    "published": "2018-12-20T17:09:35.405Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.6.3",
+    "published": "2018-12-20T17:09:45.207Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.2",
+    "published": "2018-12-23T18:53:29.433Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.3",
+    "published": "2019-01-04T18:54:05.060Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.4",
+    "published": "2019-01-15T15:46:52.632Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.13",
+    "published": "2019-01-28T19:06:37.293Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.7.0",
+    "published": "2019-01-28T19:07:07.935Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.7.0",
+    "published": "2019-01-28T19:07:15.557Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.7.0",
+    "published": "2019-01-28T19:07:25.503Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.14",
+    "published": "2019-02-01T18:38:55.321Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.7.1",
+    "published": "2019-02-01T18:40:48.262Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.7.1",
+    "published": "2019-02-01T18:40:55.691Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.7.1",
+    "published": "2019-02-01T18:41:03.369Z"
+  },
+  {
+    "name": "react",
+    "version": "16.8.0",
+    "published": "2019-02-06T08:00:25.150Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.8.0",
+    "published": "2019-02-06T08:00:45.674Z"
+  },
+  {
+    "name": "react",
+    "version": "16.8.1",
+    "published": "2019-02-06T18:15:25.739Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.8.1",
+    "published": "2019-02-06T18:15:40.963Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.4",
+    "published": "2019-02-10T21:48:44.398Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.5",
+    "published": "2019-02-11T16:37:06.235Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.15",
+    "published": "2019-02-12T17:15:43.785Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.7.2",
+    "published": "2019-02-12T17:16:02.117Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.7.2",
+    "published": "2019-02-12T17:16:09.685Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.7.2",
+    "published": "2019-02-12T17:16:16.911Z"
+  },
+  {
+    "name": "react",
+    "version": "16.8.2",
+    "published": "2019-02-14T19:01:24.755Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.8.2",
+    "published": "2019-02-14T19:01:39.847Z"
+  },
+  {
+    "name": "react",
+    "version": "16.8.3",
+    "published": "2019-02-21T18:02:55.406Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.8.3",
+    "published": "2019-02-21T18:03:12.085Z"
+  },
+  {
+    "name": "react",
+    "version": "16.8.4",
+    "published": "2019-03-05T23:11:17.853Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.8.4",
+    "published": "2019-03-05T23:11:27.913Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.6",
+    "published": "2019-03-06T23:17:38.078Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.7",
+    "published": "2019-03-07T00:40:41.144Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "2.1.8",
+    "published": "2019-03-07T00:53:37.511Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.16",
+    "published": "2019-03-19T22:26:26.781Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.8.0",
+    "published": "2019-03-19T22:26:46.991Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.8.0",
+    "published": "2019-03-19T22:26:53.751Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.8.0",
+    "published": "2019-03-19T22:27:01.634Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.17",
+    "published": "2019-03-21T21:26:26.170Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.8.1",
+    "published": "2019-03-21T21:26:42.563Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.8.1",
+    "published": "2019-03-21T21:26:48.855Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.8.1",
+    "published": "2019-03-21T21:26:55.636Z"
+  },
+  {
+    "name": "react",
+    "version": "16.8.5",
+    "published": "2019-03-22T16:40:20.510Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.8.5",
+    "published": "2019-03-22T16:40:36.960Z"
+  },
+  {
+    "name": "react",
+    "version": "16.8.6",
+    "published": "2019-03-28T06:23:35.650Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.8.6",
+    "published": "2019-03-28T06:24:04.243Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.0.0",
+    "published": "2019-04-22T18:50:48.854Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.18",
+    "published": "2019-05-07T16:42:05.018Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.8.2",
+    "published": "2019-05-07T16:42:23.616Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.8.2",
+    "published": "2019-05-07T16:42:33.061Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.8.2",
+    "published": "2019-05-07T16:42:44.593Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.0.1",
+    "published": "2019-05-08T17:32:05.351Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "0.0.0",
+    "published": "2019-05-30T17:36:29.400Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.0",
+    "published": "2019-05-30T17:47:45.996Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.1",
+    "published": "2019-05-30T17:55:39.763Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.19",
+    "published": "2019-06-04T20:31:06.580Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.9.0",
+    "published": "2019-06-04T20:31:31.431Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.9.0",
+    "published": "2019-06-04T20:31:37.248Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.9.0",
+    "published": "2019-06-04T20:31:44.146Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "4.0.0",
+    "published": "2019-06-06T09:28:41.060Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "4.1.0",
+    "published": "2019-06-07T08:28:49.545Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.2",
+    "published": "2019-06-24T18:50:34.815Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.3",
+    "published": "2019-06-25T12:57:30.107Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.4",
+    "published": "2019-06-25T14:24:42.031Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "0.0.0",
+    "published": "2019-07-08T15:45:54.187Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.0.0",
+    "published": "2019-07-08T16:24:45.206Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.5",
+    "published": "2019-07-12T17:08:44.555Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "4.2.0",
+    "published": "2019-07-20T09:16:54.169Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "4.2.1",
+    "published": "2019-07-20T10:01:56.113Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "4.2.2",
+    "published": "2019-07-20T11:35:11.497Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.6",
+    "published": "2019-07-23T11:55:03.562Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "4.2.3",
+    "published": "2019-07-23T14:18:46.286Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.7",
+    "published": "2019-07-26T14:21:56.579Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "4.2.4",
+    "published": "2019-07-29T08:05:16.798Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.20",
+    "published": "2019-07-29T15:14:07.940Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.10.0",
+    "published": "2019-07-29T15:14:24.346Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.10.0",
+    "published": "2019-07-29T15:14:30.558Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.10.0",
+    "published": "2019-07-29T15:14:37.663Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.21",
+    "published": "2019-08-02T19:51:52.990Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.10.1",
+    "published": "2019-08-02T19:52:10.751Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.10.1",
+    "published": "2019-08-02T19:52:17.184Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.10.1",
+    "published": "2019-08-02T19:52:23.723Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.8",
+    "published": "2019-08-06T20:18:40.210Z"
+  },
+  {
+    "name": "react",
+    "version": "16.9.0",
+    "published": "2019-08-08T21:09:37.704Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.9.0",
+    "published": "2019-08-08T21:09:52.747Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "8.0.9",
+    "published": "2019-08-08T22:57:20.092Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.0.0",
+    "published": "2019-08-09T19:59:57.592Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.0.1",
+    "published": "2019-08-09T20:15:32.047Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.0.2",
+    "published": "2019-08-09T20:38:40.334Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.1.0",
+    "published": "2019-08-09T22:37:50.473Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.1.0",
+    "published": "2019-08-10T17:38:43.706Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.1.1",
+    "published": "2019-08-12T23:44:00.425Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.1.1",
+    "published": "2019-08-13T19:42:09.998Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.1.2",
+    "published": "2019-08-15T19:31:35.423Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.1.3",
+    "published": "2019-08-16T21:12:43.237Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.0.1",
+    "published": "2019-08-19T03:37:19.298Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.1.0",
+    "published": "2019-08-21T16:58:30.765Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.22",
+    "published": "2019-08-22T20:03:07.425Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.10.2",
+    "published": "2019-08-22T20:03:24.509Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.10.2",
+    "published": "2019-08-22T20:03:30.300Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.10.2",
+    "published": "2019-08-22T20:03:37.146Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "5.0.0",
+    "published": "2019-08-27T09:45:59.832Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "6.0.0",
+    "published": "2019-08-27T15:30:17.946Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "7.0.0",
+    "published": "2019-08-28T08:21:33.653Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.1.4",
+    "published": "2019-09-03T21:44:57.833Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "7.0.1",
+    "published": "2019-09-10T10:09:23.767Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.23",
+    "published": "2019-09-18T16:25:23.270Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.11.0",
+    "published": "2019-09-18T16:25:40.310Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.11.0",
+    "published": "2019-09-18T16:25:45.652Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.11.0",
+    "published": "2019-09-18T16:25:51.568Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.24",
+    "published": "2019-09-18T22:53:46.779Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.11.1",
+    "published": "2019-09-18T22:54:04.523Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.11.1",
+    "published": "2019-09-18T22:54:11.102Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.11.1",
+    "published": "2019-09-18T22:54:17.448Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.1.2",
+    "published": "2019-09-19T17:48:14.187Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.25",
+    "published": "2019-09-23T18:43:17.285Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.11.2",
+    "published": "2019-09-23T18:43:34.614Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.11.2",
+    "published": "2019-09-23T18:43:40.328Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.11.2",
+    "published": "2019-09-23T18:43:46.554Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.2.0",
+    "published": "2019-09-26T23:06:20.918Z"
+  },
+  {
+    "name": "react",
+    "version": "16.10.0",
+    "published": "2019-09-27T20:28:13.525Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.10.0",
+    "published": "2019-09-27T20:28:27.330Z"
+  },
+  {
+    "name": "react",
+    "version": "16.10.1",
+    "published": "2019-09-28T18:18:21.776Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.10.1",
+    "published": "2019-09-28T18:18:35.765Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.5",
+    "published": "2019-09-29T13:42:28.618Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "7.1.0",
+    "published": "2019-09-30T08:03:02.739Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "7.1.1",
+    "published": "2019-09-30T08:47:00.060Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.2.0",
+    "published": "2019-10-03T04:18:37.513Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "7.1.2",
+    "published": "2019-10-03T08:54:57.694Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.3.0",
+    "published": "2019-10-03T19:22:40.769Z"
+  },
+  {
+    "name": "react",
+    "version": "16.10.2",
+    "published": "2019-10-03T21:10:56.351Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.10.2",
+    "published": "2019-10-03T21:11:11.156Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.1.1",
+    "published": "2019-10-07T15:11:22.093Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.1.2",
+    "published": "2019-10-09T18:14:38.696Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.6",
+    "published": "2019-10-10T14:24:25.501Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.7",
+    "published": "2019-10-19T14:06:32.243Z"
+  },
+  {
+    "name": "react",
+    "version": "16.11.0",
+    "published": "2019-10-22T21:22:52.188Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.11.0",
+    "published": "2019-10-22T21:23:05.497Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.2.0",
+    "published": "2019-10-25T12:05:33.932Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.3.1",
+    "published": "2019-10-30T17:59:52.757Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.2.1",
+    "published": "2019-10-31T14:26:28.691Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.2.2",
+    "published": "2019-10-31T14:37:14.785Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.2.3",
+    "published": "2019-11-01T12:04:58.468Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.3.2",
+    "published": "2019-11-04T15:01:43.743Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "4.2.4",
+    "published": "2019-11-14T15:42:56.032Z"
+  },
+  {
+    "name": "react",
+    "version": "16.12.0",
+    "published": "2019-11-14T23:57:29.304Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.12.0",
+    "published": "2019-11-14T23:57:42.220Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.3.0",
+    "published": "2019-12-05T00:05:24.841Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.8",
+    "published": "2019-12-06T16:22:38.864Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.26",
+    "published": "2019-12-10T22:34:15.986Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.12.0",
+    "published": "2019-12-10T22:35:33.907Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.12.0",
+    "published": "2019-12-10T22:36:08.500Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.12.0",
+    "published": "2019-12-10T22:36:41.671Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.3.3",
+    "published": "2019-12-11T05:55:52.441Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.4.0",
+    "published": "2019-12-13T15:39:42.511Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "7.2.0",
+    "published": "2019-12-17T17:15:16.773Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "7.2.1",
+    "published": "2019-12-18T09:47:54.832Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.0.0",
+    "published": "2019-12-19T13:14:21.210Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.0.1",
+    "published": "2019-12-20T09:08:10.222Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.0.2",
+    "published": "2019-12-20T09:10:54.584Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.0.3",
+    "published": "2020-01-03T16:12:56.500Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.0.0",
+    "published": "2020-01-17T00:03:34.864Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.0.1",
+    "published": "2020-01-22T13:23:27.245Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.0.2",
+    "published": "2020-01-22T14:39:47.107Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.0.4",
+    "published": "2020-01-23T04:58:41.215Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.0.5",
+    "published": "2020-01-28T00:40:47.125Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.0.6",
+    "published": "2020-01-28T23:23:56.441Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.0.7",
+    "published": "2020-01-28T23:40:53.471Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.1.0",
+    "published": "2020-01-29T21:27:18.126Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.3.1",
+    "published": "2020-01-31T04:06:02.483Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.1.0",
+    "published": "2020-01-31T19:38:17.935Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.1.1",
+    "published": "2020-02-03T17:33:03.041Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.27",
+    "published": "2020-02-05T14:19:31.757Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.12.1",
+    "published": "2020-02-05T14:20:45.967Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.12.1",
+    "published": "2020-02-05T14:21:13.806Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.12.1",
+    "published": "2020-02-05T14:21:49.138Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.4.0",
+    "published": "2020-02-14T18:45:39.009Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.1.1",
+    "published": "2020-02-17T10:13:00.133Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.1.2",
+    "published": "2020-02-17T13:26:40.608Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "8.1.3",
+    "published": "2020-02-17T13:51:57.480Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "9.0.0",
+    "published": "2020-02-17T14:42:47.222Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.0.0",
+    "published": "2020-02-17T15:01:32.724Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.4.1",
+    "published": "2020-02-22T15:46:22.269Z"
+  },
+  {
+    "name": "react",
+    "version": "16.13.0",
+    "published": "2020-02-26T20:19:52.312Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.13.0",
+    "published": "2020-02-26T20:20:05.399Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "9.5.0",
+    "published": "2020-03-04T19:18:05.183Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.9",
+    "published": "2020-03-05T17:31:20.481Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.0.0",
+    "published": "2020-03-12T23:25:54.294Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.0.1",
+    "published": "2020-03-13T13:30:00.585Z"
+  },
+  {
+    "name": "react",
+    "version": "16.13.1",
+    "published": "2020-03-19T19:53:13.309Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.13.1",
+    "published": "2020-03-19T19:53:23.004Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.4.1",
+    "published": "2020-03-21T00:00:30.559Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.28",
+    "published": "2020-03-23T15:57:23.859Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.13.0",
+    "published": "2020-03-23T15:58:54.079Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.13.0",
+    "published": "2020-03-23T15:59:28.504Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.13.0",
+    "published": "2020-03-23T16:00:07.223Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.2.0",
+    "published": "2020-03-25T17:00:50.399Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.3.0",
+    "published": "2020-03-26T12:47:21.523Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.0.1",
+    "published": "2020-03-27T23:47:05.178Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.0.2",
+    "published": "2020-03-30T16:27:26.517Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.4.0",
+    "published": "2020-04-08T15:02:15.240Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.5.0",
+    "published": "2020-04-09T19:05:59.766Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.0.2",
+    "published": "2020-04-16T10:17:28.499Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.0.3",
+    "published": "2020-04-20T18:05:13.102Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.1.0",
+    "published": "2020-04-23T11:41:05.285Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "0.1.0",
+    "published": "2020-04-24T19:35:53.266Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.0.4",
+    "published": "2020-04-30T16:13:22.714Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "0.2.0",
+    "published": "2020-05-04T04:54:48.431Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "0.2.1",
+    "published": "2020-05-07T06:53:43.370Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.6.0",
+    "published": "2020-05-07T18:36:45.643Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.7.0",
+    "published": "2020-05-07T22:09:17.095Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.1.1",
+    "published": "2020-05-08T12:44:08.068Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.1.2",
+    "published": "2020-05-08T20:42:47.224Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.2.0",
+    "published": "2020-05-12T18:56:40.080Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "0.2.2",
+    "published": "2020-05-12T23:39:13.623Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.2.1",
+    "published": "2020-05-13T20:58:31.972Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.2.2",
+    "published": "2020-05-13T21:26:58.942Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.2.3",
+    "published": "2020-05-13T22:22:51.026Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.2.4",
+    "published": "2020-05-14T16:25:08.392Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.3.0",
+    "published": "2020-05-15T21:51:02.680Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.3.1",
+    "published": "2020-05-17T13:20:47.944Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.8.0",
+    "published": "2020-05-19T21:58:44.026Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.3.2",
+    "published": "2020-05-20T05:20:11.296Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.3.3",
+    "published": "2020-05-20T22:29:41.125Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.3.4",
+    "published": "2020-05-21T18:42:31.753Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.3.5",
+    "published": "2020-05-22T23:15:25.404Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.4.0",
+    "published": "2020-05-26T17:17:50.936Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.9.0",
+    "published": "2020-05-28T13:50:06.116Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.0.5",
+    "published": "2020-06-01T23:38:29.767Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "10.4.1",
+    "published": "2020-06-01T23:51:15.220Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.10",
+    "published": "2020-06-02T17:14:30.982Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.0.0",
+    "published": "2020-06-02T18:45:00.544Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.0.6",
+    "published": "2020-06-02T22:15:34.144Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.1.0",
+    "published": "2020-06-04T00:56:18.575Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.2.0",
+    "published": "2020-06-04T13:59:30.219Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.0.1",
+    "published": "2020-06-04T15:47:59.962Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.1.0",
+    "published": "2020-06-04T23:32:46.600Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.2.0",
+    "published": "2020-06-05T13:30:21.195Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.2.1",
+    "published": "2020-06-05T18:06:15.193Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.2.1",
+    "published": "2020-06-05T19:26:21.674Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.3.0",
+    "published": "2020-06-08T18:01:19.390Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.3.1",
+    "published": "2020-06-08T18:14:55.863Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.3.2",
+    "published": "2020-06-09T13:14:21.382Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.4.0",
+    "published": "2020-06-10T04:52:18.364Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.4.1",
+    "published": "2020-06-10T19:18:02.343Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.10.0",
+    "published": "2020-06-11T14:50:07.672Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "11.4.2",
+    "published": "2020-06-11T16:43:06.959Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.10.1",
+    "published": "2020-06-14T04:56:50.047Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.0",
+    "published": "2020-06-15T22:15:37.120Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.1",
+    "published": "2020-06-16T04:53:14.615Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.2",
+    "published": "2020-06-16T16:28:22.724Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.11",
+    "published": "2020-06-16T22:17:19.339Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.3.0",
+    "published": "2020-06-18T00:28:31.400Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.29",
+    "published": "2020-06-18T21:00:53.027Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.13.1",
+    "published": "2020-06-18T21:01:58.364Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.13.1",
+    "published": "2020-06-18T21:02:26.996Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.13.1",
+    "published": "2020-06-18T21:02:55.118Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.3",
+    "published": "2020-06-21T01:59:01.637Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.4",
+    "published": "2020-06-21T12:52:55.169Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.5",
+    "published": "2020-06-21T18:29:04.344Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.6",
+    "published": "2020-06-21T22:33:08.938Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.7",
+    "published": "2020-06-22T17:46:49.643Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.0",
+    "published": "2020-06-23T16:31:53.460Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.1",
+    "published": "2020-06-23T21:59:57.373Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.2",
+    "published": "2020-06-24T19:14:23.920Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.8",
+    "published": "2020-06-25T01:53:17.993Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.3",
+    "published": "2020-06-25T04:26:28.002Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.9",
+    "published": "2020-06-25T04:57:22.585Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.0",
+    "published": "2020-06-25T15:56:21.694Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.10",
+    "published": "2020-06-25T20:06:09.770Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.11",
+    "published": "2020-06-25T22:13:20.374Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "0.2.3",
+    "published": "2020-06-26T19:59:48.145Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.4",
+    "published": "2020-07-05T17:29:06.823Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.5",
+    "published": "2020-07-08T18:56:11.763Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.6",
+    "published": "2020-07-13T18:23:24.393Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.7",
+    "published": "2020-07-15T13:16:47.190Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.1",
+    "published": "2020-07-15T13:57:46.018Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.30",
+    "published": "2020-07-15T18:05:45.839Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.14.0",
+    "published": "2020-07-15T18:06:51.686Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.14.0",
+    "published": "2020-07-15T18:07:21.643Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.14.0",
+    "published": "2020-07-15T18:07:45.677Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.12",
+    "published": "2020-07-22T15:39:10.662Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.13",
+    "published": "2020-07-23T20:52:15.609Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "0.2.4",
+    "published": "2020-07-24T01:46:34.692Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.14",
+    "published": "2020-07-24T20:50:15.130Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.15",
+    "published": "2020-07-25T14:44:06.783Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.2",
+    "published": "2020-07-28T18:16:59.418Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.16",
+    "published": "2020-07-28T18:24:19.511Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.0.17",
+    "published": "2020-07-28T18:31:00.401Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.0",
+    "published": "2020-07-31T17:50:04.142Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.8",
+    "published": "2020-08-05T02:14:25.412Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.1",
+    "published": "2020-08-08T00:00:50.038Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.4.2",
+    "published": "2020-08-11T09:44:59.651Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.3",
+    "published": "2020-08-11T18:54:45.401Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.4.3",
+    "published": "2020-08-12T16:51:29.319Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "10.4.9",
+    "published": "2020-08-21T06:56:20.955Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.4",
+    "published": "2020-08-22T10:42:17.602Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.2",
+    "published": "2020-08-22T23:12:29.854Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.3",
+    "published": "2020-08-24T19:06:30.161Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.0.0",
+    "published": "2020-09-02T18:04:15.652Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.0.1",
+    "published": "2020-09-03T06:40:32.021Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.0.2",
+    "published": "2020-09-03T17:54:53.635Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.4",
+    "published": "2020-09-08T20:25:51.183Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.0.3",
+    "published": "2020-09-13T16:04:19.126Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.0.4",
+    "published": "2020-09-13T18:46:30.030Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.5",
+    "published": "2020-09-14T20:58:18.915Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.6",
+    "published": "2020-09-21T22:52:58.770Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.31",
+    "published": "2020-09-29T13:30:20.854Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.15.0",
+    "published": "2020-09-29T13:32:12.351Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.15.0",
+    "published": "2020-09-29T13:33:58.256Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.15.0",
+    "published": "2020-09-29T13:34:28.393Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.7",
+    "published": "2020-10-02T22:55:36.352Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.32",
+    "published": "2020-10-05T16:46:43.978Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.15.1",
+    "published": "2020-10-05T16:48:38.879Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.15.1",
+    "published": "2020-10-05T16:51:04.638Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.15.1",
+    "published": "2020-10-05T16:52:34.784Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.1.0",
+    "published": "2020-10-14T13:32:54.997Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.8",
+    "published": "2020-10-14T15:07:03.255Z"
+  },
+  {
+    "name": "react",
+    "version": "0.14.10",
+    "published": "2020-10-14T19:12:25.426Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "0.14.10",
+    "published": "2020-10-14T19:13:04.852Z"
+  },
+  {
+    "name": "react",
+    "version": "15.7.0",
+    "published": "2020-10-14T19:29:53.496Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "15.7.0",
+    "published": "2020-10-14T19:30:17.874Z"
+  },
+  {
+    "name": "react",
+    "version": "16.14.0",
+    "published": "2020-10-14T19:38:05.812Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "16.14.0",
+    "published": "2020-10-14T19:38:26.085Z"
+  },
+  {
+    "name": "react",
+    "version": "17.0.0",
+    "published": "2020-10-20T20:11:47.327Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "17.0.0",
+    "published": "2020-10-20T20:12:22.766Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "3.4.4",
+    "published": "2020-10-20T21:54:43.371Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.9",
+    "published": "2020-10-21T00:19:36.068Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.1.10",
+    "published": "2020-10-22T03:04:01.622Z"
+  },
+  {
+    "name": "react",
+    "version": "17.0.1",
+    "published": "2020-10-22T12:21:45.340Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "17.0.1",
+    "published": "2020-10-22T12:21:58.048Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.5",
+    "published": "2020-10-23T13:10:35.196Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "4.0.0",
+    "published": "2020-10-23T14:41:06.984Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.12",
+    "published": "2020-10-26T14:10:06.279Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.1.1",
+    "published": "2020-11-03T19:22:49.682Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.2.0",
+    "published": "2020-11-04T02:47:43.339Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.2.1",
+    "published": "2020-11-11T03:31:06.796Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.2.2",
+    "published": "2020-11-11T06:16:44.719Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.1.2",
+    "published": "2020-11-11T09:05:57.624Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.6",
+    "published": "2020-11-13T14:51:10.642Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "1.0.0",
+    "published": "2020-11-17T02:00:02.070Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "1.0.1",
+    "published": "2020-11-17T04:17:17.882Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.2.0",
+    "published": "2020-11-18T16:47:07.294Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.2.1",
+    "published": "2020-11-19T10:45:56.970Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.2.2",
+    "published": "2020-11-20T23:36:19.023Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "4.0.1",
+    "published": "2020-11-23T05:30:00.952Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.13",
+    "published": "2020-11-23T17:52:46.191Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.3.0",
+    "published": "2020-11-30T20:25:42.781Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.4.0",
+    "published": "2020-12-03T01:46:24.685Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.5.0",
+    "published": "2020-12-03T18:55:57.161Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.6.0",
+    "published": "2020-12-14T06:18:50.743Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.14",
+    "published": "2020-12-22T21:45:43.129Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.7",
+    "published": "2020-12-30T01:43:14.073Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.8",
+    "published": "2020-12-30T03:31:47.416Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.2.3",
+    "published": "2021-01-07T18:05:19.714Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.9",
+    "published": "2021-01-12T19:08:18.983Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.34",
+    "published": "2021-01-13T21:00:28.842Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.15.2",
+    "published": "2021-01-13T21:01:34.330Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.15.2",
+    "published": "2021-01-13T21:02:01.232Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.15.2",
+    "published": "2021-01-13T21:02:22.941Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "1.1.0",
+    "published": "2021-01-14T02:42:44.373Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.6.1",
+    "published": "2021-01-21T14:22:15.950Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.6.2",
+    "published": "2021-01-21T16:12:09.311Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.6.3",
+    "published": "2021-02-01T21:03:55.731Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.2.4",
+    "published": "2021-02-02T09:35:10.963Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.2.5",
+    "published": "2021-02-02T16:40:43.040Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "4.0.2",
+    "published": "2021-02-03T18:58:10.780Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.7.0",
+    "published": "2021-02-11T03:11:41.283Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.7.1",
+    "published": "2021-02-13T11:46:45.762Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.7.2",
+    "published": "2021-02-22T07:46:44.718Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "4.0.3",
+    "published": "2021-02-22T18:22:29.697Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.7.3",
+    "published": "2021-02-23T12:59:08.055Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.7.4",
+    "published": "2021-02-28T12:14:14.467Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.8.0",
+    "published": "2021-02-28T15:04:40.685Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.8.1",
+    "published": "2021-03-02T12:04:59.391Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.8.2",
+    "published": "2021-03-09T11:25:28.653Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "12.8.3",
+    "published": "2021-03-09T11:34:27.799Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "1.1.1",
+    "published": "2021-03-13T21:03:43.087Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.35",
+    "published": "2021-03-16T19:00:09.732Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.15.3",
+    "published": "2021-03-16T19:01:03.434Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.15.3",
+    "published": "2021-03-16T19:01:30.568Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.15.3",
+    "published": "2021-03-16T19:01:50.509Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.0",
+    "published": "2021-03-16T19:17:49.441Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.1",
+    "published": "2021-03-17T11:57:15.587Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.2",
+    "published": "2021-03-18T14:01:09.233Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.3",
+    "published": "2021-03-19T12:04:08.206Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.4",
+    "published": "2021-03-19T16:32:21.369Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.5",
+    "published": "2021-03-19T17:52:22.950Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.6",
+    "published": "2021-03-19T19:18:48.710Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.7",
+    "published": "2021-03-22T10:59:11.135Z"
+  },
+  {
+    "name": "react",
+    "version": "17.0.2",
+    "published": "2021-03-22T21:56:19.536Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "17.0.2",
+    "published": "2021-03-22T21:56:33.089Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.8",
+    "published": "2021-03-23T09:10:17.651Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.9",
+    "published": "2021-03-23T13:45:46.228Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.10",
+    "published": "2021-03-23T14:14:52.052Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.11",
+    "published": "2021-03-24T19:09:51.795Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.12",
+    "published": "2021-03-24T21:02:18.732Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.13",
+    "published": "2021-03-24T21:39:44.634Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.14",
+    "published": "2021-03-25T09:28:58.074Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.15",
+    "published": "2021-03-25T13:34:03.583Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.11.10",
+    "published": "2021-03-25T15:57:15.663Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.0.16",
+    "published": "2021-03-25T19:27:37.379Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.0",
+    "published": "2021-03-30T09:16:49.669Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.2.6",
+    "published": "2021-03-30T10:23:37.600Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.1",
+    "published": "2021-03-30T11:43:13.666Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.2",
+    "published": "2021-04-09T21:25:05.661Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.3",
+    "published": "2021-04-14T22:05:58.379Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.4",
+    "published": "2021-04-18T08:51:12.715Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.5",
+    "published": "2021-04-19T11:29:06.860Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.12.0",
+    "published": "2021-04-22T11:38:07.398Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.6",
+    "published": "2021-04-28T19:40:34.067Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.7",
+    "published": "2021-04-29T10:35:48.152Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.8",
+    "published": "2021-04-29T11:20:39.630Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "1.1.2",
+    "published": "2021-05-06T02:24:32.820Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.1.9",
+    "published": "2021-05-12T20:14:20.475Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "11.2.7",
+    "published": "2021-05-14T12:44:56.896Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "2.0.0",
+    "published": "2021-06-02T00:58:09.279Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "2.0.1",
+    "published": "2021-06-02T19:20:50.354Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.13.0",
+    "published": "2021-06-03T17:05:38.673Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.14.0",
+    "published": "2021-06-11T14:16:47.710Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.14.1",
+    "published": "2021-06-11T16:24:08.728Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "12.0.0",
+    "published": "2021-06-23T06:35:59.535Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "2.1.0",
+    "published": "2021-07-01T23:25:24.605Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.2.0",
+    "published": "2021-07-17T15:44:21.667Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.2.1",
+    "published": "2021-07-25T13:59:43.042Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.15",
+    "published": "2021-08-03T15:40:51.509Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.2.36",
+    "published": "2021-08-04T19:11:11.232Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "5.15.4",
+    "published": "2021-08-04T19:12:06.788Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "5.15.4",
+    "published": "2021-08-04T19:12:33.050Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "5.15.4",
+    "published": "2021-08-04T19:13:04.499Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "12.1.0",
+    "published": "2021-09-11T09:58:45.082Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "12.1.1",
+    "published": "2021-09-27T12:44:39.447Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "12.1.2",
+    "published": "2021-10-03T13:19:47.226Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "2.1.1",
+    "published": "2021-10-07T00:25:53.457Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.3.0",
+    "published": "2021-10-10T09:06:48.802Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "2.1.2",
+    "published": "2021-10-11T22:43:17.295Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.4.0",
+    "published": "2021-10-15T10:33:17.829Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.4.1",
+    "published": "2021-10-15T10:43:44.016Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.4.2",
+    "published": "2021-10-18T14:49:23.102Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.16",
+    "published": "2021-10-18T15:35:29.483Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "13.5.0",
+    "published": "2021-10-18T17:57:05.525Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.15.0",
+    "published": "2021-11-02T05:53:51.417Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.15.1",
+    "published": "2021-11-23T13:59:28.863Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.16.0",
+    "published": "2021-12-03T21:10:30.095Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.16.1",
+    "published": "2021-12-06T12:06:39.739Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "5.0.0",
+    "published": "2021-12-14T15:54:09.599Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "2.1.3",
+    "published": "2022-01-07T00:23:52.677Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "2.1.4",
+    "published": "2022-01-21T02:10:25.250Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.17",
+    "published": "2022-01-28T15:36:24.279Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.16.2",
+    "published": "2022-02-03T00:51:26.816Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "1.3.0",
+    "published": "2022-02-07T20:35:43.850Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.0.0",
+    "published": "2022-02-07T20:37:23.827Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.0.0",
+    "published": "2022-02-07T20:38:09.981Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.0.0",
+    "published": "2022-02-07T20:38:46.101Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "12.1.3",
+    "published": "2022-02-15T22:55:57.783Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "12.1.4",
+    "published": "2022-03-09T14:37:24.706Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.1.0",
+    "published": "2022-03-15T18:01:11.308Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.1.0",
+    "published": "2022-03-15T18:04:16.860Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.1.0",
+    "published": "2022-03-15T18:06:58.127Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.1.0",
+    "published": "2022-03-15T18:09:08.840Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.18",
+    "published": "2022-03-16T17:20:16.019Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.1.1",
+    "published": "2022-03-22T15:32:08.019Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.1.1",
+    "published": "2022-03-22T15:37:33.512Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.1.1",
+    "published": "2022-03-22T15:40:04.561Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.1.1",
+    "published": "2022-03-22T15:41:36.607Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.16.3",
+    "published": "2022-03-24T13:00:59.606Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.0.0",
+    "published": "2022-03-29T07:31:22.292Z"
+  },
+  {
+    "name": "react",
+    "version": "18.0.0",
+    "published": "2022-03-29T16:00:04.223Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "18.0.0",
+    "published": "2022-03-29T16:00:14.901Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "13.0.0",
+    "published": "2022-03-31T04:59:33.213Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.0.1",
+    "published": "2022-03-31T09:50:17.675Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.0.2",
+    "published": "2022-03-31T15:39:48.724Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.0.3",
+    "published": "2022-03-31T17:37:04.418Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.0.4",
+    "published": "2022-04-01T07:08:55.685Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.16.4",
+    "published": "2022-04-05T14:57:16.992Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.1.0",
+    "published": "2022-04-11T08:06:06.553Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "13.0.1",
+    "published": "2022-04-11T18:10:23.389Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "12.1.5",
+    "published": "2022-04-11T20:14:35.067Z"
+  },
+  {
+    "name": "react-scripts",
+    "version": "5.0.1",
+    "published": "2022-04-12T17:33:23.210Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "13.1.0",
+    "published": "2022-04-15T18:59:26.814Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "13.1.1",
+    "published": "2022-04-15T22:11:17.349Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.1.1",
+    "published": "2022-04-17T08:58:48.307Z"
+  },
+  {
+    "name": "react",
+    "version": "18.1.0",
+    "published": "2022-04-26T20:40:14.478Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "18.1.0",
+    "published": "2022-04-26T20:40:26.971Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "13.2.0",
+    "published": "2022-05-03T18:40:16.446Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.2.0",
+    "published": "2022-05-12T10:44:56.362Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "13.3.0",
+    "published": "2022-05-28T08:23:03.353Z"
+  },
+  {
+    "name": "react",
+    "version": "18.2.0",
+    "published": "2022-06-14T19:46:38.369Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "18.2.0",
+    "published": "2022-06-14T19:46:48.370Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.2.1",
+    "published": "2022-06-17T09:15:04.628Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.1.19",
+    "published": "2022-06-29T14:57:20.121Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.2.0",
+    "published": "2022-06-29T15:07:55.159Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.2.2",
+    "published": "2022-07-14T10:26:14.050Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.2.3",
+    "published": "2022-07-14T11:39:19.187Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.2.4",
+    "published": "2022-07-15T09:28:09.301Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.2.5",
+    "published": "2022-07-15T09:33:28.321Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.2.6",
+    "published": "2022-07-18T12:12:56.541Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.3.0",
+    "published": "2022-07-19T13:52:05.609Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.1.2",
+    "published": "2022-07-25T17:50:45.753Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.1.2",
+    "published": "2022-07-25T17:53:46.822Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.1.2",
+    "published": "2022-07-25T17:57:29.141Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.1.2",
+    "published": "2022-07-25T17:58:54.781Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.4.0",
+    "published": "2022-08-02T12:47:51.669Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.4.1",
+    "published": "2022-08-02T22:36:54.844Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.16.5",
+    "published": "2022-08-04T21:47:42.327Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.4.2",
+    "published": "2022-08-04T22:12:41.404Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.4.3",
+    "published": "2022-08-09T15:25:09.623Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.0.0",
+    "published": "2022-08-24T17:58:02.814Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.2.0",
+    "published": "2022-08-30T16:41:22.733Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.2.0",
+    "published": "2022-08-30T16:46:41.956Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.2.0",
+    "published": "2022-08-30T16:50:41.400Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.2.0",
+    "published": "2022-08-30T16:52:39.218Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.0.1",
+    "published": "2022-08-31T20:10:10.585Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "13.4.0",
+    "published": "2022-09-04T16:52:40.609Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.0.2",
+    "published": "2022-09-15T06:20:37.531Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.0.3",
+    "published": "2022-10-04T18:18:59.509Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.0.4",
+    "published": "2022-10-19T01:54:47.054Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.2.1",
+    "published": "2022-11-15T17:55:17.031Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.2.1",
+    "published": "2022-11-15T17:56:13.184Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.2.1",
+    "published": "2022-11-15T17:56:46.310Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.2.1",
+    "published": "2022-11-15T17:58:48.800Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.1.0",
+    "published": "2022-11-16T01:22:15.619Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.1.1",
+    "published": "2023-01-10T21:59:15.844Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.3.0",
+    "published": "2023-02-07T19:25:22.904Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.3.0",
+    "published": "2023-02-07T19:26:57.026Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.3.0",
+    "published": "2023-02-07T19:27:31.615Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.3.0",
+    "published": "2023-02-07T19:28:31.906Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.0.0",
+    "published": "2023-02-16T22:59:37.036Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.3.0",
+    "published": "2023-03-09T21:03:33.001Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.4.0",
+    "published": "2023-03-27T17:01:09.499Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.4.0",
+    "published": "2023-03-27T17:02:10.003Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.4.0",
+    "published": "2023-03-27T17:02:37.119Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.4.0",
+    "published": "2023-03-27T17:03:06.520Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.3.1",
+    "published": "2023-04-04T11:42:27.386Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.3.2",
+    "published": "2023-05-29T14:12:15.079Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.4.0",
+    "published": "2023-07-10T18:23:49.756Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "5.17.0",
+    "published": "2023-07-18T12:50:19.096Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.4.2",
+    "published": "2023-08-02T20:29:01.618Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.4.2",
+    "published": "2023-08-02T20:31:27.625Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.4.2",
+    "published": "2023-08-02T20:31:57.115Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.4.2",
+    "published": "2023-08-02T20:32:49.120Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.0.0",
+    "published": "2023-08-13T16:32:06.346Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.0.1",
+    "published": "2023-08-18T05:28:29.942Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.1.0",
+    "published": "2023-08-23T04:30:43.293Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.1.1",
+    "published": "2023-08-23T15:19:23.173Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.1.2",
+    "published": "2023-08-24T08:09:55.470Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.1.3",
+    "published": "2023-09-06T02:56:35.264Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.5.0",
+    "published": "2023-09-14T15:33:59.585Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.5.1",
+    "published": "2023-09-15T18:08:32.068Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.5.0",
+    "published": "2023-09-28T11:32:19.696Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.1.4",
+    "published": "2023-10-12T04:58:31.439Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.1.0",
+    "published": "2023-11-08T06:56:16.741Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.1.1",
+    "published": "2023-11-17T14:51:57.346Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.1.2",
+    "published": "2023-11-17T15:49:56.176Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.5.0",
+    "published": "2023-11-28T18:12:33.262Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.5.0",
+    "published": "2023-11-28T18:15:03.721Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.5.0",
+    "published": "2023-11-28T18:15:08.263Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.5.0",
+    "published": "2023-11-28T18:15:14.077Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.1.5",
+    "published": "2023-11-30T19:41:03.320Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.5.1",
+    "published": "2023-11-30T21:56:40.696Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.5.1",
+    "published": "2023-11-30T21:57:30.280Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.5.1",
+    "published": "2023-11-30T21:58:13.038Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.5.1",
+    "published": "2023-11-30T21:58:41.001Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.1.6",
+    "published": "2023-12-27T14:11:23.105Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.5.1",
+    "published": "2023-12-27T20:25:10.521Z"
+  },
+  {
+    "name": "@testing-library/user-event",
+    "version": "14.5.2",
+    "published": "2023-12-29T15:54:08.287Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.2.0",
+    "published": "2024-01-03T18:50:32.694Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.2.1",
+    "published": "2024-01-22T17:36:22.946Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.3.0",
+    "published": "2024-01-24T11:29:30.825Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "3.5.2",
+    "published": "2024-01-25T20:42:01.857Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.4.0",
+    "published": "2024-01-30T00:21:04.990Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.2.0",
+    "published": "2024-01-30T21:25:55.119Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.4.1",
+    "published": "2024-02-01T01:03:34.924Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.2.1",
+    "published": "2024-02-01T19:54:15.042Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.4.2",
+    "published": "2024-02-05T13:00:44.302Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.2.2",
+    "published": "2024-03-19T22:57:18.169Z"
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "version": "6.5.2",
+    "published": "2024-04-02T18:26:31.135Z"
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "version": "6.5.2",
+    "published": "2024-04-02T18:27:30.496Z"
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "version": "6.5.2",
+    "published": "2024-04-02T18:28:29.583Z"
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "version": "6.5.2",
+    "published": "2024-04-02T18:28:46.946Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.3.0",
+    "published": "2024-04-08T14:10:38.024Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "15.0.0",
+    "published": "2024-04-10T15:21:48.533Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "15.0.1",
+    "published": "2024-04-11T17:06:42.588Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "14.3.1",
+    "published": "2024-04-11T17:14:53.834Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "15.0.2",
+    "published": "2024-04-13T09:24:02.838Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "15.0.3",
+    "published": "2024-04-23T10:24:21.929Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "15.0.4",
+    "published": "2024-04-23T15:35:22.054Z"
+  },
+  {
+    "name": "react",
+    "version": "18.3.0",
+    "published": "2024-04-25T16:45:54.126Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "18.3.0",
+    "published": "2024-04-25T16:46:07.950Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "15.0.5",
+    "published": "2024-04-26T15:32:06.506Z"
+  },
+  {
+    "name": "react",
+    "version": "18.3.1",
+    "published": "2024-04-26T16:42:26.496Z"
+  },
+  {
+    "name": "react-dom",
+    "version": "18.3.1",
+    "published": "2024-04-26T16:42:49.931Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "15.0.6",
+    "published": "2024-05-01T18:32:35.929Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.4.3",
+    "published": "2024-05-03T06:22:49.822Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.4.4",
+    "published": "2024-05-03T15:13:46.721Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.4.5",
+    "published": "2024-05-03T18:32:13.437Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "15.0.7",
+    "published": "2024-05-07T11:10:17.977Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "4.0.0",
+    "published": "2024-05-13T20:17:44.241Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.2.1",
+    "published": "2024-05-16T17:45:47.227Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "4.0.1",
+    "published": "2024-05-22T03:32:27.259Z"
+  },
+  {
+    "name": "@fortawesome/react-fontawesome",
+    "version": "0.2.2",
+    "published": "2024-05-22T21:21:35.507Z"
+  },
+  {
+    "name": "@testing-library/react",
+    "version": "16.0.0",
+    "published": "2024-06-03T13:55:27.444Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "4.1.0",
+    "published": "2024-06-06T23:06:37.672Z"
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "version": "6.4.6",
+    "published": "2024-06-10T23:27:43.370Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "4.1.1",
+    "published": "2024-06-11T02:48:31.695Z"
+  },
+  {
+    "name": "web-vitals",
+    "version": "4.2.0",
+    "published": "2024-06-20T20:54:16.982Z"
+  }
+]
