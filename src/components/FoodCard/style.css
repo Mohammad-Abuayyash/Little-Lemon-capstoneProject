@@ -1,7 +1,7 @@
 .foodCard{
     background-color: #edefee;
-    width: 45%;
-    height: 370px;
+    width: 40%;
+    height: 390px;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -11,7 +11,7 @@
 
 .foodCard > img{
     width: 100%;
-    height: 110px;
+    height: 150px;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
 } 

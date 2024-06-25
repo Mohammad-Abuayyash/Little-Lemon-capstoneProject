@@ -2,9 +2,11 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 18rem;
+    padding: 0 15rem;
     border: 1px black solid;
     gap: 50px;
+    background-color: #495e57;
+    color:white;
 }
 
 footer>img{
@@ -22,6 +24,8 @@ footer>img{
     flex-direction: column;
     margin: 5px;
     padding: 10px;
+    width: 40%;
+
 }
 
 
@@ -39,6 +43,6 @@ footer>img{
 
 .links>li>a{
     text-decoration: none;
-    color:black;
+    color:white;
     font-weight: 400;
 }

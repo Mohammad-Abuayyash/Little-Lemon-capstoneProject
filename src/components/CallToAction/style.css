@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 18rem;
+    padding: 30px 15rem;
     gap: 50px;
     background-color: #495e57;
 }
@@ -10,7 +10,7 @@
 
 
 .callToAction > .details{
-    width: 40%;
+    width: 60%;
     gap: 10px;
 }
 

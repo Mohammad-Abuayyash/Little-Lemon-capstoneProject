@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 30px 18rem;
+    padding: 30px 15rem;
     border: 1px black solid;
     position: relative;
 }
@@ -29,5 +29,5 @@
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    gap: 27px;
+    gap: 25px;
 }

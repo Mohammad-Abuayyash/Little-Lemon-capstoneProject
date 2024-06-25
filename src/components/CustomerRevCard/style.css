@@ -1,0 +1,38 @@
+.custCard{
+    background-color: #edefee;
+    width: 30%;
+    height: 370px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.custCard>h4{
+    font-size: 20px;
+    color: #f4ce14;
+    filter: drop-shadow(0px 1px 0px grey);
+}
+
+.custCard>h5{
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.custCard > img{
+    width:  8rem;
+    height: 8rem;
+    object-fit: cover;
+    border-radius: 100px;
+}
+
+.custCard >p{
+    font-size: 10px;
+    width: 100%;
+    height: auto;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
