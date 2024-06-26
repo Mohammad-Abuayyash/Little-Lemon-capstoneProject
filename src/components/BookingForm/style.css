@@ -1,0 +1,30 @@
+.bookingForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+    color:black;
+    font-weight: 500;
+    position: relative;
+}
+
+.form-side{
+    background-image: url('../../assets/restaurant.jpg');
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+}
+
+form{
+    background-color: white;
+    opacity: 0.65;
+    border-radius: 20px;
+    border: 7px solid #495e57;
+}
+
+.res-col{
+    display: flex;
+}

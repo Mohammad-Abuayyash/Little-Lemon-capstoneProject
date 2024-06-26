@@ -15,8 +15,8 @@ const Chicago = () => {
             </p>
         </div>
         <div className="imgs">
-        <img src={pic1} alt="Mario & Adrian" className="pic1"></img>
-        <img src={pic2} alt="Mario & Adrian" className="pic2"></img>
+        <img src={pic1} alt="Mario & Adrian" className="pic1" loading="lazy"></img>
+        <img src={pic2} alt="Mario & Adrian" className="pic2" loading="lazy"></img>
         </div>
         
 

@@ -1,32 +1,41 @@
 .custCard{
     background-color: #edefee;
     width: 30%;
-    height: 370px;
+    height: 190px;
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    align-items: center;
-    padding: 0 10px;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .custCard>h4{
     font-size: 20px;
     color: #f4ce14;
     filter: drop-shadow(0px 1px 0px grey);
+    margin: 0;
+}
+.custInfo{
+    display: flex;
+    justify-content: space-between;
+    align-items:start;
 }
 
-.custCard>h5{
+.custCard>.custInfo>h5{
     font-size: 17px;
     margin-top: 20px;
     margin-bottom: 0;
+    font-weight: 400;
 }
 
-.custCard > img{
-    width:  8rem;
-    height: 8rem;
+.custCard >.custInfo> img{
+    width:  4rem;
+    height: 4rem;
     object-fit: cover;
     border-radius: 100px;
+    border: 2px solid #495e57;
+    padding: 2px;
 }
 
 .custCard >p{

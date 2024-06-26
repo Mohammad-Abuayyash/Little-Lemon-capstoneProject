@@ -1,13 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { Route, Routes } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
+
+
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+import Home from './pages/Home';
+import Bookingpage from './pages/BookingPage'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+    <Routes>
+      <Route element={<Home/>} path="/"/>
+      <Route element={<Bookingpage/>} path="/bookings"/>
+      {/* <Route element={<ConfirmationPage/>} path="/confirmation"/> */}
+    </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 

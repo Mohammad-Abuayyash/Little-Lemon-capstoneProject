@@ -13,7 +13,7 @@ const FoodCard = ({imageUrl, title, price, description}) => {
        </div>
        <div className="orderButton">
             <button type="button">Order a delivery</button>
-            <img src=""></img>
+            <img src="" alt="" loading="lazy"></img>
         </div>
     </div>
  );

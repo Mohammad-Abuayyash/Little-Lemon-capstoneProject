@@ -17,7 +17,7 @@
     font-weight: lighter;
     margin: 0;
     padding: 0;
-    color: #f4ce14;
+    color: #495e57;
     font-family: "Markazi Text";
 }
 
@@ -42,6 +42,7 @@
     width: 230px;
     height: 200px;
     border-radius: 20px;
+    object-fit: cover;
 }
 
 .chicago>.imgs>.pic1{
@@ -49,5 +50,11 @@
     z-index: 0;
     top: 40%;
     right: 60%;
+    border: 4px solid white;
+}
+
+.chicago>.imgs>.pic2{
+    border: 4px solid #495e57;
+    padding: 2px;
 }
 

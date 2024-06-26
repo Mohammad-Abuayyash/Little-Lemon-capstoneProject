@@ -1,13 +1,15 @@
 import "../Footer/style.css"
-import restaurant from "../../assets/restaurant.jpg"
+import Logo from "../../assets/whiteLogo.png"
 const Footer = () => {
 
  return (
     <footer>
-     <img src={restaurant} alt="Restaurant Food"/>
-     <div className="footer-info">
+      <div className="socials">
+        <img src={Logo} alt="Restaurant Food" loading="lazy"/>
+        {/* <img/> */}
+      </div>
      <section className="column">
-       <h4>Little<br/>Lemon</h4>
+       <h4>Navigation</h4>
        <ul className="links">
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
@@ -15,6 +17,16 @@ const Footer = () => {
             <li><a href="#reservations">Reservations</a></li>
             <li><a href="#orderOnline">Order Online</a></li>
             <li><a href="#login">Login</a></li>
+        </ul>
+     </section>
+     
+     <section className="column">
+       <h4>Open Hours</h4>
+       <ul>
+            <li>Monday - Friday<br></br>8am - 10pm</li>
+            <li>Sunday & Saturday<br></br>10am - 4pm</li>
+            <li>Online Ordering<br></br>11am - 9pm</li>
+
         </ul>
      </section>
      <section className="column">
@@ -37,15 +49,6 @@ const Footer = () => {
                 contact@littlelemon.com</li>
         </ul>
      </section>
-     <section className="column">
-       <h4>Social Media Links</h4>
-       <ul className="links">
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">Instagram</a></li>
-            <li><a href="#">Twitter</a></li>
-        </ul>
-     </section>
-     </div>
     </footer>
  );
 

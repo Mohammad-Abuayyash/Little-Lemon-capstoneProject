@@ -15,7 +15,7 @@ const CallToAction = () => {
             </p>
             <button type="button">Reserve a table</button>
         </div>
-        <img src={RestaFood}></img>
+        <img src={RestaFood} alt="restauranfood" loading="lazy"></img>
     </section>
  );
 
