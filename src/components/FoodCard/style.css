@@ -52,5 +52,7 @@
     font-weight: bold;
     position: absolute;
     top: 93%;
+    cursor:pointer;
+
 }
 

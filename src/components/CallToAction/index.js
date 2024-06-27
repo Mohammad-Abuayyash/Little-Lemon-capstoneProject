@@ -1,6 +1,8 @@
 import "../CallToAction/style.css"
+import { useNavigate } from "react-router-dom";
 import RestaFood from "../../assets/restauranfood.jpg"
 const CallToAction = () => {
+    const navigate= useNavigate();
 
  return (
     <section className="callToAction">
@@ -13,7 +15,7 @@ const CallToAction = () => {
                 recipes served with a modern
                 twist.
             </p>
-            <button type="button">Reserve a table</button>
+            <button onClick={()=>{navigate("/bookings")}}>Reserve a table</button>
         </div>
         <img src={RestaFood} alt="restauranfood" loading="lazy"></img>
     </section>

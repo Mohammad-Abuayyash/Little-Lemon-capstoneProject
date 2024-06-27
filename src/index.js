@@ -9,6 +9,7 @@ import reportWebVitals from './reportWebVitals';
 
 import Home from './pages/Home';
 import Bookingpage from './pages/BookingPage'
+import ConfirmationPage from './pages/ConfirmationPage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,7 +18,7 @@ root.render(
     <Routes>
       <Route element={<Home/>} path="/"/>
       <Route element={<Bookingpage/>} path="/bookings"/>
-      {/* <Route element={<ConfirmationPage/>} path="/confirmation"/> */}
+      <Route element={<ConfirmationPage/>} path="/confirmation"/>
     </Routes>
     </BrowserRouter>
   </React.StrictMode>

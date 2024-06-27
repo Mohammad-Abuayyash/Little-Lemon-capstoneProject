@@ -87,3 +87,14 @@ form>.submitBtn{
     width: 104%;
 }
 
+
+.error {
+    border: 2px solid red;
+    border-radius: 5px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 13px;
+  }
+  

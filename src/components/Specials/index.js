@@ -13,7 +13,7 @@ const Specials = () => {
     <section className="specials">
         <div className="heading">
             <h2>This weeks specials!</h2>
-            <button type="button">Online Menu</button>
+            <button>Online Menu</button>
         </div>
         <div className="foodCards">
             <FoodCard imageUrl={greekSalad} title="Greek Salad" price="$12.99" description={greekSaladDesc}/>

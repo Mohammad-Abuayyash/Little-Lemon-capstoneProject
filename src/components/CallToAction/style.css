@@ -12,6 +12,7 @@
 .callToAction > .details{
     width: 60%;
     gap: 10px;
+
 }
 
 .callToAction > .details> h1{
@@ -45,6 +46,7 @@
     border-radius: 14px;
     padding: 10px 20px;
     box-shadow: 0 1px 1px 0 grey;
+    cursor: pointer;
 
 }
 
