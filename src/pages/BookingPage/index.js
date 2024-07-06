@@ -53,11 +53,11 @@ const fetchAPI = (date) => {
   }, []);
   
   return (
-    <div className="bookingPage">
+    <>
      <Header/>
      <BookingForm availableTimes={availableTimes} dispatch={dispatch}/>
      <Footer/>
-    </div>
+    </>
   );
 }
 

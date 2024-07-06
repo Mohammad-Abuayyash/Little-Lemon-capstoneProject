@@ -8,7 +8,8 @@ const Footer = () => {
         <img src={Logo} alt="Restaurant Food" loading="lazy"/>
         {/* <img/> */}
       </div>
-     <section className="column">
+      <div className="cols">
+      <section className="column">
        <h4>Navigation</h4>
        <ul className="links">
             <li><a href="#home">Home</a></li>
@@ -49,6 +50,8 @@ const Footer = () => {
                 contact@littlelemon.com</li>
         </ul>
      </section>
+      </div>
+    
     </footer>
  );
 

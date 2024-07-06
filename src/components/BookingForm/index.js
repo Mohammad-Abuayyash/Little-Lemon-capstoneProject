@@ -36,8 +36,10 @@ const BookingForm = ({ availableTimes, dispatch }) => {
     else{
       const nums = ['0','1','2','3','4','5','6','7','8','9'];
       for(let i =0;i<nums.length;i++)
-        if(name.includes(nums[i]))
+        if(name.includes(nums[i])){
           newErrors.name = ' (should only have characters)';
+          break;
+        }
     }
     if (!email) {
       newErrors.email = ' Required';
@@ -128,6 +130,7 @@ const BookingForm = ({ availableTimes, dispatch }) => {
           onChange={(e) => setPhone(e.target.value)}
           className={errors.phone ? 'error' : ''}
           title={errors.phone}
+          min='0'
         />
 
         <div className="res-col">

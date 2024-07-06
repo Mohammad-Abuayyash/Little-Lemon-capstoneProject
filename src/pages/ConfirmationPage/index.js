@@ -4,11 +4,11 @@ import Footer from '../../components/Footer/index';
 
 const ConfirmationPage = ()=> {
   return (
-    <div className='ConfirmPage'>
+    <>
      <Header/>
      <ConfirmedBooking/>
      <Footer/>
-    </div>
+    </>
   );
 }
 

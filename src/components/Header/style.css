@@ -1,23 +1,76 @@
-header{
-    display: flex;
-    justify-content: space-between;
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 13%;
+  background-color: white;
+  position: relative;
+  z-index: 10;
+}
+
+.mobile-nav {
+  display: none;
+  cursor: pointer;
+}
+
+.mobile-nav > .bar {
+  width: 25px;
+  height: 3px;
+  background-color: black;
+  margin: 5px 0;
+}
+
+.pageLinks {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+}
+
+@media (max-width: 700px) {
+  .mobile-nav {
+    display: block;
+  }
+
+  .pageLinks {
+    display: none;
+    flex-direction: column;
     align-items: center;
-    padding: 10px 15rem;
-}
+    justify-content: center;
+    background-color: #252525;
+    position: absolute;
+    top: 40px;
+    right: 0;
+    width: 100%;
+    transition: all 0.3s ease-in-out;
+    padding: 10px;
+    z-index: 9;
+  }
 
-nav > .pageLinks{
+  .pageLinks.visible {
     display: flex;
-    gap: 20px;
-    list-style-type: none;
+
+    li {
+      width: 100%;
+      text-align: center;
+      padding: 5px 0;
+      a,
+      Link {
+        color: white;
+      }
+    }
+
+    li:hover {
+      background-color: #404040;
+    }
+  }
 }
 
-.pageLinks>li{
-    font-size: 15px;
+.pageLinks > li {
+  font-size: 15px;
 }
 
-.pageLinks > li > a{ 
-    color: black;
-    text-decoration: none;
-    font-weight: 500;
-
+.pageLinks > li > a {
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
 }

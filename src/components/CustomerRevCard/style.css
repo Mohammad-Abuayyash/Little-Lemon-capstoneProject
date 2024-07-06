@@ -1,47 +1,57 @@
-.custCard{
-    background-color: #edefee;
-    width: 30%;
-    height: 190px;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    padding: 10px;
-    border-radius: 10px;
+.custCard {
+  background-color: #edefee;
+  max-width: 20%;
+  height: 190px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 10px;
+  border-radius: 10px;
+  @media (max-width: 700px) {
+    max-width: 40%;
+  }
+  @media (max-width: 750px) {
+    max-width: 40%;
+  }
+
+  @media (max-width: 400px) {
+    max-width: 70%;
+  }
 }
 
-.custCard>h4{
-    font-size: 20px;
-    color: #f4ce14;
-    filter: drop-shadow(0px 1px 0px grey);
-    margin: 0;
+.custCard > h4 {
+  font-size: 20px;
+  color: #f4ce14;
+  filter: drop-shadow(0px 1px 0px grey);
+  margin: 0;
 }
-.custInfo{
-    display: flex;
-    justify-content: space-between;
-    align-items:start;
-}
-
-.custCard>.custInfo>h5{
-    font-size: 17px;
-    margin-top: 20px;
-    margin-bottom: 0;
-    font-weight: 400;
+.custInfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
 }
 
-.custCard >.custInfo> img{
-    width:  4rem;
-    height: 4rem;
-    object-fit: cover;
-    border-radius: 100px;
-    border: 2px solid #495e57;
-    padding: 2px;
+.custCard > .custInfo > h5 {
+  font-size: 17px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-weight: 400;
 }
 
-.custCard >p{
-    font-size: 10px;
-    width: 100%;
-    height: auto;
-    text-overflow: ellipsis;
-    overflow: hidden;
+.custCard > .custInfo > img {
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  border-radius: 100px;
+  border: 2px solid #495e57;
+  padding: 2px;
+}
+
+.custCard > p {
+  font-size: 10px;
+  width: 100%;
+  height: auto;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
