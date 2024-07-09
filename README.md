@@ -7,8 +7,4 @@
 
 Technologies used:
 
-HTML
-CSS
-JavaScript (React)
-Figma
-Visual Studio Code
+HTML, CSS, JavaScript (React), Figma (UI/UX), Visual Studio Code
