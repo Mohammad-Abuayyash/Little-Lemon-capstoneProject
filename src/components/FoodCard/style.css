@@ -1,0 +1,64 @@
+.foodCard {
+  background-color: #edefee;
+  width: 25%;
+  height: 390px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  @media (max-width: 700px) {
+    width: 40%;
+    height: 410px;
+  }
+
+  @media (max-width: 400px) {
+    width: 70%;
+    height: 430px;
+  }
+}
+
+.foodCard > img {
+  width: 100%;
+  max-height: 150px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+.foodCard > .foodCardDetails {
+  padding: 10px;
+}
+
+.foodCardDetails > p {
+  color: #495e57;
+  font-family: karla;
+  font-size: 14px;
+}
+
+.foodCard > .foodCardDetails > .foodInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.foodInfo > h3 {
+  font-family: "Markazi Text";
+  font-size: 20px;
+}
+
+.foodInfo > span {
+  color: #ee9972;
+  font-weight: bold;
+}
+.orderButton {
+  padding-left: 10px;
+}
+
+.orderButton > button {
+  border: 0;
+  padding: 0;
+  font-weight: bold;
+  position: absolute;
+  top: 93%;
+  cursor: pointer;
+}

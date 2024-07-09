@@ -1,0 +1,118 @@
+.form-side {
+  background-image: url("../../assets/restaurant.jpg");
+  object-fit: contain;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 20px;
+  border: 7px solid #495e57;
+  padding: 90px;
+  color: black;
+  font-weight: 500;
+  position: relative;
+  width: 40%;
+
+  @media (max-width: 700px) {
+    padding: 60px;
+  }
+}
+
+input {
+  width: 100%;
+  margin-bottom: 20px;
+  margin-right: 0;
+  min-height: 20px;
+  border: 1px solid #495e57;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input::placeholder {
+  font-size: 12px;
+}
+
+textarea {
+  margin-bottom: 20px;
+  width: 103%;
+  resize: none;
+  border: 1px solid #495e57;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.res-col {
+  display: flex;
+  justify-content: space-between;
+  width: 104%;
+
+  .res-gst-row,
+  .res-occ-row,
+  .res-date-row,
+  .res-time-row {
+    width: 45%;
+
+    input,
+    select {
+      width: 100%;
+      min-height: auto;
+      border: 1px solid #495e57;
+      border-radius: 5px;
+      padding: 5px;
+      color: gray;
+    }
+
+    @media (max-width: 700px) {
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 700px) {
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+}
+
+form > .submitBtn {
+  background-color: #495e57;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  min-height: 15px;
+  padding: 8px 0;
+  filter: drop-shadow(0px 1px 1px black);
+  width: 104%;
+}
+
+.error {
+  border: 2px solid red;
+  border-radius: 5px;
+}
+
+.error-message {
+  color: red;
+  font-size: 13px;
+}
